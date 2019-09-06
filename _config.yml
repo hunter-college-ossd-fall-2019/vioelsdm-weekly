@@ -5,13 +5,12 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Roy Lema
+name: Roy
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: Computer Science major, in CSCI 395.86, Hunter College, Fall 2019
-Bachelor's of Science in Accounting
-Python enthusiast
+description: Computer Science major, in CSCI 395.86, Hunter College, Fall 2019, Bachelor's of Science in Accounting
+
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
