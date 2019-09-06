@@ -15,7 +15,7 @@ Python enthusiast
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/51339031?v=4
+avatar: https://i.imgur.com/NsSuVvz.png
 
 
 # CUSTOMIZE
@@ -54,7 +54,7 @@ url: "https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly"
 # where "your-username" is your GitHub username. It must begin with the "/" -
 # do not remove it.
 
-baseurl: "/weekly"
+baseurl: "/vioelsdm-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
