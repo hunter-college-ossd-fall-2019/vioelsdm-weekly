@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  1   | https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week01/    | Blog Entry   |   "Why I took this course"   |
-|  2   | https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week02/    | Blog Entry   |    "Answering 2 questions"  |
+|  1   | [https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week01/](https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week01/ )    | Blog Entry   |   "Why I took this course"   |
+|  2   | [https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week02/](https://hunter-college-ossd-fall-2019.github.io/vioelsdm-weekly/week02/ )    | Blog Entry   |    "Answering 2 questions"  |
 |     |     |     |      |
