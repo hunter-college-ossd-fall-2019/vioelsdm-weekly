@@ -22,6 +22,7 @@ Finally, I also have a decent working knowledge of databases from MySQL, MariaDB
 
 ### Other
 
-I like to play Riichi (Japanese) Mahjong (4P).
-I like to take trips to different places when I can.
-The best season is Winter.
+* I like to play Riichi (Japanese) Mahjong (4P).
+* I like to take trips to different places when I can.
+* The best season is Winter.
+
